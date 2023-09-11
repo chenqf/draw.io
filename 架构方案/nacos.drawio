@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-09-08T08:23:23.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.2" etag="Ed8UviIRPlFCwZIAklgx" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T11:48:32.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="UHpaxwl3eQv1IxxEFLCz" version="21.7.3" type="github">
   <diagram name="第 1 页" id="1MOPSF-VcTMAgxWGR2cx">
-    <mxGraphModel>
+    <mxGraphModel dx="793" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8TeAK5xbMEtvdyVOzLFB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8TeAK5xbMEtvdyVOzLFB-1" target="8TeAK5xbMEtvdyVOzLFB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TeAK5xbMEtvdyVOzLFB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8TeAK5xbMEtvdyVOzLFB-1" target="8TeAK5xbMEtvdyVOzLFB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TeAK5xbMEtvdyVOzLFB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8TeAK5xbMEtvdyVOzLFB-1" target="8TeAK5xbMEtvdyVOzLFB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TeAK5xbMEtvdyVOzLFB-1" value="server-name" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TeAK5xbMEtvdyVOzLFB-2" value="instance1 - IP:Port" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TeAK5xbMEtvdyVOzLFB-3" value="instance2 - IP:Port" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TeAK5xbMEtvdyVOzLFB-4" value="instance3 - IP:Port" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
